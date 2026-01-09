@@ -1,2 +1,2 @@
-# Dipendenze-tecnologiche-css-e-html-primo-sito-
+# Dipendenze-tecnologiche!
 sito sulle dipendenze tecnologiche
